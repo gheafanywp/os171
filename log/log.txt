@@ -1,0 +1,8 @@
+w00-170207-13-LR-About: Introduction to Operating System, From: Pak Rahmat as Lecturer
+w00-170209-13-LR-About: Differences between open source and free software, From: Pak Rahmat as Lecturer
+w01-170214-13-LR-About: Hak Kekayaan Intelektual, From: Pak Rahmat as Lecturer
+w01-170214-16-LR-About: Copyright, Hak Paten, From: Book-Guide to Operating System
+w01-170216-13-LR-About: Scripting, Method, Commands for Programmers, Regular Experssion, From: Lecturer
+w01-170216-15-PS-About: Do task lab week01, Try to solve the problem that I face when something got wrong, From: Scele
+w01-170216-16-LR-About: Free Software, From: Arsip Video ETC 00
+w01-170216-17-DS-About: Function of  GitHub, Handling some errors, With: Maktal and Aisyah

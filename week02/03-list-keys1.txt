@@ -1,0 +1,14 @@
+/home/fasilkom/mahasiswa/g/gheafany.widyatika/.gnupg/pubring.gpg
+----------------------------------------------------------------
+pub   4096R/A8143271 2017-02-24 [expires: 2017-08-23]
+uid                  Gheafany Widyatika Putri (Learning OS is really fun) <gheafany.widyatika@.ui.ac.id>
+sub   4096R/27895194 2017-02-24 [expires: 2017-08-23]
+
+pub   4096R/BD4AD71E 2016-09-12 [expires: 2017-03-11]
+uid                  Os Team (OSTEAM) <osteam@localhost>
+sub   4096R/937D25BA 2016-09-12 [expires: 2017-03-11]
+
+pub   4096R/69A9FFD0 2017-02-24 [expires: 2017-08-23]
+uid                  Gheafany Widyatika Putri ("Learning OS is really amazing") <gheafany.widyatika@ui.ac.id>
+sub   4096R/C8FAFEC2 2017-02-24 [expires: 2017-08-23]
+

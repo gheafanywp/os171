@@ -11,3 +11,6 @@ w02-170221-16-LR-About: Scripting 02
 w02-170223-13-LR-About: Scripting 02-03
 w02-170224-16-PS-About: Do task lab week02
 w02-170224-21-PS-About: Do task lab week02
+w03-170228-16-PS-About: BIOS From: www.thegeekstuff.com/2011/02/linux-boot-pr03-170228-16-PS-About: BIOS From: www.thegeekstuff.com/2011/02/linux-boot-process
+w03-170226-19-LR-About: LINUX Start Up System From: Slide
+w03-170228-13-LR-About: Kernel, Init From: Lecturer

@@ -14,3 +14,9 @@ w02-170224-21-PS-About: Do task lab week02
 w03-170228-16-PS-About: BIOS From: www.thegeekstuff.com/2011/02/linux-boot-pr03-170228-16-PS-About: BIOS From: www.thegeekstuff.com/2011/02/linux-boot-process
 w03-170226-19-LR-About: LINUX Start Up System From: Slide
 w03-170228-13-LR-About: Kernel, Init From: Lecturer
+w03-170228-16-PS-About: Do task lab week03
+w04-170307-13-LR-About: Global Variable and Local Variable From: Lecturer
+w04-170307-16-PS-About: Do task lab week04
+w04-170309-13-LR-About: Demonstartion in the class with Mr. Rahmat
+w04-170307-16.30-LR-About: O_CREAT, O_RDONLY, OWRONLY From:  http://csweb.cs.wfu.edu/~torgerse/Kokua/More_SGI/007-3693-007/sgi_html/ch01.html
+w04-170307-17.30-LR-About: I/O, S_IRUSR, S_IXUSR, S_IWGRP, S_IROTH From:  http://csweb.cs.wfu.edu/~torgerse/Kokua/More_SGI/007-3693-007/sgi_html/ch01.html

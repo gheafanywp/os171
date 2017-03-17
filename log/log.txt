@@ -20,3 +20,12 @@ w04-170307-16-PS-About: Do task lab week04
 w04-170309-13-LR-About: Demonstartion in the class with Mr. Rahmat
 w04-170307-16.30-LR-About: O_CREAT, O_RDONLY, OWRONLY From:  http://csweb.cs.wfu.edu/~torgerse/Kokua/More_SGI/007-3693-007/sgi_html/ch01.html
 w04-170307-17.30-LR-About: I/O, S_IRUSR, S_IXUSR, S_IWGRP, S_IROTH From:  http://csweb.cs.wfu.edu/~torgerse/Kokua/More_SGI/007-3693-007/sgi_html/ch01.html
+w05-170314-13-LR-About: Address Binding From: Mr. Rahmat as lecturer
+w05-170314-13.30-LR-About: Adress Space From: Mr. Rahmat as lecturer
+w05-170314-14.30-LR:About: MMU From: Mr. Rahmat
+w05-170316-13-LR-About: Swapping From: Mr. Rahmat
+w05-170316-13.30-PS-About: FIFO, LRU, Optimalization From: Mr.Rahmat
+w05-170316-14.10-PS-About: PTE, PT1, PT2, offset From: Mr. Rahmat
+w05-170316-16.30-PS-About: Do task Lab week05
+w05-170317-12.30-DS-About: configuration memory and display with Alberto
+w05-170317-13-PS-About: Do task Lab week05

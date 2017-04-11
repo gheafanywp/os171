@@ -29,3 +29,12 @@ w05-170316-14.10-PS-About: PTE, PT1, PT2, offset From: Mr. Rahmat
 w05-170316-16.30-PS-About: Do task Lab week05
 w05-170317-12.30-DS-About: configuration memory and display with Alberto
 w05-170317-13-PS-About: Do task Lab week05
+w06-170405-13-LR-About: Process From: Slide OSCE2e chapter 3
+w06-170406-13-LR-About: Process From: Mr. Rahmat as Lecturer
+w06-170406-14-LR-About: Threads From: Mr. Rahmat as Lecturer
+w06-170411-13.30-PS-About: Do task lab week06
+w06-170411-14.30-LR-About: Fork From: http://faculty.cs.niu.edu/~hutchins/csci480/linuxcalls.htm
+w06-170411-15-LR-About: PID, PPID From: https://delightlylinux.wordpress.com/2012/06/25/what-is-pid-and-ppid/
+w06-170411-16-LR-About: procStatus From: https://documentation.progress.com/output/ua/OpenEdge_latest/index.html#page/dvref/proc-status-function.html
+
+
